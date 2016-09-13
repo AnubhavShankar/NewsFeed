@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">NewsFeed</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="default_category">http://feeds.feedburner.com/ndtvnews-top-stories</string>
+    <string name="category">category</string>
+    <string name="title_category_preference">Select Category</string>
+    <string name="content_authority">com.professional.anubhavshankar.newsfeed.app</string>
+    <string name="sync_account_type">newsFeed.anubhavshankar.com</string>
+    <string-array name="news_categories">
+        <item>Top News</item>
+        <item>Latest Stories</item>
+        <item>Business</item>
+        <item>India</item>
+        <item>World</item>
+        <item>Sports</item>
+        <item>Trending</item>
+        <item>Offbeat</item>
+    </string-array>
+    <string-array name="news_category_links">
+        <item>http://feeds.feedburner.com/ndtvnews-top-stories</item>
+        <item>http://feeds.feedburner.com/ndtvnews-latest</item>
+        <item>http://feeds.feedburner.com/ndtvprofit-latest</item>
+        <item>http://feeds.feedburner.com/ndtvnews-india-news</item>
+        <item>http://feeds.feedburner.com/ndtvnews-world-news</item>
+        <item>http://feeds.feedburner.com/ndtvsports-latest</item>
+        <item>http://feeds.feedburner.com/ndtvnews-trending-news</item>
+        <item>http://feeds.feedburner.com/ndtvnews-offbeat-news</item>
+    </string-array>
+</resources>
